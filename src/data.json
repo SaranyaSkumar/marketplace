@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "image": "/images/product1.jpg",
+    "title": "Elegant Summer Dress",
+    "cutPrice": "$79.99",
+    "finalPrice": "$59.99",
+    "sellerName": "Fashion Hub"
+  },
+  {
+    "id": "2",
+    "image": "/images/product2.jpg",
+    "title": "Casual White T-Shirt",
+    "cutPrice": "$29.99",
+    "finalPrice": "$19.99",
+    "sellerName": "Casual Style"
+  },
+  {
+    "id": "3",
+    "image": "/images/product3.jpg",
+    "title": "Stylish Denim Jeans",
+    "cutPrice": "$99.99",
+    "finalPrice": "$69.99",
+    "sellerName": "Denim Kings"
+  },
+  {
+    "id": "4",
+    "image": "/images/product4.jpg",
+    "title": "Classic Leather Wallet",
+    "cutPrice": "$49.99",
+    "finalPrice": "$34.99",
+    "sellerName": "LeatherCraft"
+  },
+  {
+    "id": "5",
+    "image": "/images/product5.jpg",
+    "title": "Running Sneakers",
+    "cutPrice": "$129.99",
+    "finalPrice": "$89.99",
+    "sellerName": "Sprint Sports"
+  },
+  {
+    "id": "6",
+    "image": "/images/product6.jpg",
+    "title": "Chic Sunglasses",
+    "cutPrice": "$59.99",
+    "finalPrice": "$44.99",
+    "sellerName": "SunShades"
+  },
+  {
+    "id": "7",
+    "image": "/images/product6.jpg",
+    "title": "Chic Sunglasses",
+    "cutPrice": "$59.99",
+    "finalPrice": "$44.99",
+    "sellerName": "SunShades"
+  },
+  {
+    "id": "8",
+    "image": "/images/product6.jpg",
+    "title": "Chic Sunglasses",
+    "cutPrice": "$59.99",
+    "finalPrice": "$44.99",
+    "sellerName": "SunShades"
+  },
+  {
+    "id": "9",
+    "image": "/images/product6.jpg",
+    "title": "Chic Sunglasses",
+    "cutPrice": "$59.99",
+    "finalPrice": "$44.99",
+    "sellerName": "SunShades"
+  }
+]
