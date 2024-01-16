@@ -15,7 +15,7 @@ export default function Products() {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch("http://localhost:5000/api/products?category=kids");
+        const response = await fetch("https://marketplace-backend-lemon.vercel.app/api/products?category=kids");
         if (!response.ok) {
           throw new Error(`Error: ${response.status}`);
         }

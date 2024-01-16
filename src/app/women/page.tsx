@@ -16,7 +16,7 @@ export default function Products() {
     const fetchProducts = async () => {
       try {
         const response = await fetch(
-          "http://localhost:5000/api/products?category=women"
+          "https://marketplace-backend-lemon.vercel.app/api/products?category=women"
         );
         if (!response.ok) {
           throw new Error(`Error: ${response.status}`);
